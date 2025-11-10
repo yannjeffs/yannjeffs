@@ -26,8 +26,8 @@
 ---
 
 ## 💬 About Me
-🎯 **Current Project:** Working on *KmerLinguo*  
-🌱 **Learning:** Nest.js  
+🎯 **Current Project:** Working on *Carvantage Cars*  
+🌱 **Learning:** ReactJS  
 💡 **Ask Me About:** JavaScript, HTML, CSS  
 📫 **Contact:** [yangoune10@gmail.com](mailto:yangoune10@gmail.com)  
 ⚡ **Fun Fact:** I'm a funny guy 😄  
